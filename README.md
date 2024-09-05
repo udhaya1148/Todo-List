@@ -3,14 +3,18 @@
 A simple and user-friendly To-Do List application built with React.js. This app allows users to manage their daily tasks by adding, marking as completed, and deleting tasks.
 
 ## Features
+```
 Add Tasks: Users can add new tasks using the input field and "+" button.
 Delete Tasks: Each task comes with a delete button for easy removal.
 Task Completion: Tasks can be marked as completed with the checkbox next to each one.
+```
 
 ## Tech Stack
+```
 React.js: Front-end framework used to build the UI components.
 Vite: Development tool for a fast and lean build process.
 CSS: For custom styling and layout design.
+```
 
 
 ## Output :
