@@ -1,2 +1,2 @@
-Simple Todo List project using React + Vite
+# Simple Todo List project using React + Vite
 
